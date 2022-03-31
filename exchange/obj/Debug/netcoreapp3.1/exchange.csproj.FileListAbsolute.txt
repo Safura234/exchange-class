@@ -1,0 +1,14 @@
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\obj\Debug\netcoreapp3.1\exchange.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\obj\Debug\netcoreapp3.1\exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\obj\Debug\netcoreapp3.1\exchange.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\obj\Debug\netcoreapp3.1\exchange.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\obj\Debug\netcoreapp3.1\exchange.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\bin\Debug\netcoreapp3.1\exchange.exe
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\bin\Debug\netcoreapp3.1\exchange.deps.json
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\bin\Debug\netcoreapp3.1\exchange.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\bin\Debug\netcoreapp3.1\exchange.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\bin\Debug\netcoreapp3.1\exchange.dll
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\bin\Debug\netcoreapp3.1\exchange.pdb
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\obj\Debug\netcoreapp3.1\exchange.dll
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\obj\Debug\netcoreapp3.1\exchange.pdb
+C:\Users\Spectre\OneDrive\Bureau\exchange class\exchange\exchange\obj\Debug\netcoreapp3.1\exchange.genruntimeconfig.cache
